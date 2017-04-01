@@ -3,10 +3,12 @@
 
 # CFA Project Directory
 
-## Project 1: 
+A directory of major projects completed during the [Coder Factory Academy](https://www.coderfactoryacademy.edu.au/fast-track) 6 month bootcamp for the Diploma of Software Development.
+
+## Major Project 1: 
 [Term 1 Portfolio Project](https://github.com/shadolee/CFA-T1-Portfolio-Project)
 A showcase of projects completed during the first 4 weeks of the course and the website itself showcases HTML, CSS & Bootstrap skills.
 
-Project 2:
+## Major Project 2:
 
-Project 3:
+## Major Project 3:
