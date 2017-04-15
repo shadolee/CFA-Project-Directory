@@ -15,7 +15,7 @@ A showcase of projects completed during the first 4 weeks of the course and the 
 
 [IMDB Movie database terminal app](https://github.com/shadolee/CFA-IMDB-terminal-app): a Ruby based terminal app that mimics IMDB search and rating functionality.
 
-[Term 1 Group Project](https://github.com/shadolee/CFA-Group-Project): in a team of four we created a terminal application, similar to Tinder, using Ruby.
+[Term 1 Group Project](https://github.com/shadolee/CFA-Group-Project): in a team we created a terminal application, similar to Tinder, using Ruby.
 
 [Zen Garden](https://github.com/shadolee/CFA-Zen-Garden): a CSS styling exercise where we get to style a HTML file.
 
@@ -23,6 +23,6 @@ A showcase of projects completed during the first 4 weeks of the course and the 
 
 ### Other Term 2 Projects:
 
-[Term 2 Group Project](https://github.com/shadolee/CFA-Hackathon-LetsGetGit): in a team of five we created an application to assist people with disabilities have better access to a tech education by way of a Virtual Reality Classroom they can access from anywhere.
+[Term 2 Group Project](https://github.com/shadolee/CFA-Hackathon-LetsGetGit): in a team we created an application to assist people with disabilities have better access to a tech education by way of a Virtual Reality Classroom they can access from anywhere. Completed using Ruby on Rails.
 
 ## Major Project 3:
