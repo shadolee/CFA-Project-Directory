@@ -21,4 +21,8 @@ A showcase of projects completed during the first 4 weeks of the course and the 
 
 ## Major Project 2:
 
+### Other Term 2 Projects:
+
+[Term 2 Group Project](https://github.com/shadolee/CFA-Hackathon-LetsGetGit): in a team of five we created an application to assist people with disabilities have better access to a tech education by way of a Virtual Reality Classroom they can access from anywhere.
+
 ## Major Project 3:
