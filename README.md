@@ -20,6 +20,8 @@ A showcase of projects completed during the first 4 weeks of the course and the 
 [Zen Garden](https://github.com/shadolee/CFA-Zen-Garden): a CSS styling exercise where we get to style a HTML file.
 
 ## Major Project 2:
+[Term 2 Marketplace Project](https://github.com/shadolee/CFA-T2-Marketplace-Project)
+A Ruby on Rails application with a two sided marketplace of buyers and sellers. The idea was to impress Barack Obama. This was done by building a website that allows people to purchase US citizenship and dual citizens to sell their US citizenship.
 
 ### Other Term 2 Projects:
 
