@@ -27,4 +27,6 @@ A Ruby on Rails application with a two sided marketplace of buyers and sellers. 
 
 [Term 2 Group Project](https://github.com/shadolee/CFA-Hackathon-LetsGetGit): in a team we created an application to assist people with disabilities have better access to a tech education by way of a Virtual Reality Classroom they can access from anywhere. Completed using Ruby on Rails.
 
+[eBay Auction site clone](https://github.com/shadolee/ebay-clone): for my own enjoyment and with the help of a tutorial I created an online auction site similar to eBay.
+
 ## Major Project 3:
