@@ -34,3 +34,11 @@ A Ruby on Rails application with a two sided marketplace of buyers and sellers. 
 ### Other Term 3 Projects:
 
 [Javascript Weather API Terminal App](https://github.com/shadolee/CFA-weather-api-terminal-app): a terminal application which prompts the user to enter the name of their city which will return the current weather conditions in that city.
+
+[ExpressJS Data App](https://github.com/shadolee/CFA-ExpressJS-App): an ExpressJS/NodeJS which displays a JSON dataset.
+
+[NodeJS Ingredient List App](https://github.com/shadolee/ingredients): a NodeJS back end application, incorporating ExpressJS, MongoDB which allows the user to enter a list of ingredients to the database and be displayed in a list.
+
+[ReactJS Ingredient List App](https://github.com/shadolee/CFA-React-Ingredients-Form): a ReactJS front end application where users can enter ingredients to a list. Can be used in combination with NodeJS app above.
+
+[ReactJS Online Quiz App](https://github.com/shadolee/CFA-React-Quiz): A ReactJS application where users complete an online quiz and can see their progress and score.
