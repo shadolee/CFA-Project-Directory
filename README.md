@@ -30,3 +30,7 @@ A Ruby on Rails application with a two sided marketplace of buyers and sellers. 
 [eBay Auction site clone](https://github.com/shadolee/ebay-clone): for my own enjoyment and with the help of a tutorial I created an online auction site similar to eBay.
 
 ## Major Project 3:
+
+### Other Term 3 Projects:
+
+[Javascript Weather API Terminal App](https://github.com/shadolee/CFA-weather-api-terminal-app): a terminal application which prompts the user to enter the name of their city which will return the current weather conditions in that city.
