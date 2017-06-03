@@ -38,7 +38,7 @@ A Ruby on Rails application with a two sided marketplace of buyers and sellers. 
 
 [LambTown Message Board](https://github.com/shadolee/CFA-LambTown): a forum where users can signup/login, post messages, read other user messages and make comments on those messages. Created using Ruby on Rails. 
 
-[Hartl Forum Project](https://github.com/shadolee/sample_app): following the well known Michael Hartl Ruby on Rails Tutorial Book, an application is created as a messaging board. Similar to functionality to LambTown, this application has less reliance on Ruby Gems asmost of the functionality is coded from scratch.
+[Hartl Forum Project](https://github.com/shadolee/sample_app): following the well known Michael Hartl Ruby on Rails Tutorial Book, an application is created as a messaging board. Similar functionality to LambTown, this application has less reliance on Ruby Gems as most of the functionality that could be provided by gems is coded from scratch.
 
 [Rails Blog](https://github.com/shadolee/Rails-Basic-Blog): a Ruby on Rails application, where users can create an account, make blog posts and comment on other posts.
 
