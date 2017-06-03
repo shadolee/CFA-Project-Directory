@@ -3,7 +3,14 @@
 
 # CFA Project Directory
 
-A directory of major projects completed during the [Coder Factory Academy](https://www.coderfactoryacademy.edu.au/fast-track) 6 month bootcamp for the Diploma of Software Development.
+A directory of major projects completed during the [Coder Factory Academy](https://www.coderfactoryacademy.edu.au/fast-track) 6 month bootcamp for the Diploma of Software Development. These are a combination of in class projects and some additional projects completed in my own time whilst enrolled in the course.
+
+### Term 1
+Focused on HTML, CSS, Git and Ruby.
+### Term 2
+Focused on Ruby on Rails and Bootstrap.
+### Term 3
+Focused on Javascript, including ReactJS, NodeJS, ExpressJS and MongoDB.
 
 ## Major Project 1: 
 [Term 1 Portfolio Project](https://github.com/shadolee/CFA-T1-Portfolio-Project)
@@ -29,7 +36,15 @@ A Ruby on Rails application with a two sided marketplace of buyers and sellers. 
 
 [eBay Auction site clone](https://github.com/shadolee/ebay-clone): an online auction site similar to eBay created using Ruby on Rails where users can bid on items, be outbid on iems and win items within a set timeframe and be notified of their auction status.
 
+[LambTown Message Board](https://github.com/shadolee/CFA-LambTown): a forum where users can signup/login, post messages, read other user messages and make comments on those messages. Created using Ruby on Rails. 
+
+[Hartl Forum Project](https://github.com/shadolee/sample_app): following the well known Michael Hartl Ruby on Rails Tutorial Book, an application is created as a messaging board. Similar to functionality to LambTown, this application has less reliance on Ruby Gems asmost of the functionality is coded from scratch.
+
+[Rails Blog](https://github.com/shadolee/Rails-Basic-Blog): a Ruby on Rails application, where userss can create an account, make blog posts and comment on other posts.
+
 ## Major Project 3:
+
+Coming soon...
 
 ### Other Term 3 Projects:
 
@@ -42,3 +57,5 @@ A Ruby on Rails application with a two sided marketplace of buyers and sellers. 
 [ReactJS Ingredient List App](https://github.com/shadolee/CFA-React-Ingredients-Form): a ReactJS front end application where users can enter ingredients to a list. Can be used in combination with NodeJS app above.
 
 [ReactJS Online Quiz App](https://github.com/shadolee/CFA-React-Quiz): A ReactJS application where users complete an online quiz and can see their progress and score.
+
+[NodeJS Ecommerce Store](https://github.com/shadolee/ecommerce): A NodeJS application where users can make online purchases through an ecommerce platform.
