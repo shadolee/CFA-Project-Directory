@@ -5,11 +5,11 @@
 
 A directory of major projects completed during the [Coder Factory Academy](https://www.coderfactoryacademy.edu.au/fast-track) 6 month bootcamp for the Diploma of Software Development. These are a combination of in class projects and some additional projects completed in my own time whilst enrolled in the course.
 
-### Term 1
+### [Term 1](https://www.coderfactoryacademy.edu.au/fast-track/curriculum)
 Focused on HTML, CSS, Git and Ruby.
-### Term 2
+### [Term 2](https://www.coderfactoryacademy.edu.au/fast-track/curriculum)
 Focused on Ruby on Rails and Bootstrap.
-### Term 3
+### [Term 3](https://www.coderfactoryacademy.edu.au/fast-track/curriculum)
 Focused on Javascript, including ReactJS, NodeJS, ExpressJS and MongoDB.
 
 ## Major Project 1: 
