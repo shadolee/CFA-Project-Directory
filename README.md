@@ -44,7 +44,7 @@ A Ruby on Rails application with a two sided marketplace of buyers and sellers. 
 
 ## Major Project 3:
 
-[React Redux Bookstore](https://github.com/shadolee/CFA-React-Redux-Bookstore): a Javascript application utilising ReactJS, React-Redux, NodeJS, ExpressJS, MongoDB & Bootstrap. This application is designed for students at a specific college to be able to pruchase their textbooks directly through the college website, rather than doing so externally. This application would be integrated into the college's existing website.
+[Term 3 React Redux Bookstore Project](https://github.com/shadolee/CFA-React-Redux-Bookstore): a Javascript application utilising ReactJS, React-Redux, NodeJS, ExpressJS, MongoDB & Bootstrap. This application is designed for students at a specific college to be able to pruchase their textbooks directly through the college website, rather than doing so externally. This application would be integrated into the college's existing website.
 
 ### Other Term 3 Projects:
 
