@@ -10,7 +10,7 @@ Focused on HTML, CSS, Git and Ruby.
 ### [Term 2](https://www.coderfactoryacademy.edu.au/fast-track/curriculum)
 Focused on Ruby on Rails and Bootstrap.
 ### [Term 3](https://www.coderfactoryacademy.edu.au/fast-track/curriculum)
-Focused on Javascript, including ReactJS, NodeJS, ExpressJS and MongoDB.
+Focused on Javascript, including ReactJS, NodeJS, ExpressJS and MongoDB and Redux JS.
 
 ## Major Project 1: 
 [Term 1 Portfolio Project](https://github.com/shadolee/CFA-T1-Portfolio-Project)
